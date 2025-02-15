@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Victor Santana Costa de Sá
+Matricula: 890662
 
 ## Tela de inspeção com navegador
-
+![alt text](devtoolsNetwork.png)
 
 ## Tela de projeto no Replit
 
+![alt text](HelloWorldReplit.png)
